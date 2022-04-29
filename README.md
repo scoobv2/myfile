@@ -30,6 +30,14 @@ Check Netflix DNS Pass
 ```
 apt install jq -y && wget -q -O /usr/bin/nf https://raw.githubusercontent.com/scoobv2/myfile/master/netflix-checker.sh && chmod +x /usr/bin/nf
 ```
+Bypass Permission
+
+```
+chmod +x /usr/bin/dns
+```
+```
+chmod +x /usr/bin/nf
+```
 
 # Link Telegram
 ```
