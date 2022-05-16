@@ -45,6 +45,11 @@ apt install jq -y && wget -q -O /usr/bin/nf https://raw.githubusercontent.com/sc
 chmod +x /usr/bin/dns
 chmod +x /usr/bin/nf
 ```
+Change OS
+~~~
+wget https://raw.githubusercontent.com/scoobv2/myfile/master/
+~~~
+
 # Link Telegram
 ```
 https://t.me/dagger0000
