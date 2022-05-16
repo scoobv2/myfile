@@ -47,7 +47,7 @@ chmod +x /usr/bin/nf
 ```
 Change OS
 ~~~
-wget https://raw.githubusercontent.com/scoobv2/myfile/master/Network-Reinstall-System-Modify.sh
+wget https://raw.githubusercontent.com/scoobv2/myfile/master/Network-Reinstall-System-Modify.sh && chmod +x Network-Reinstall-System-Modify.sh && ./Network-Reinstall-System-Modify.sh
 ~~~
 
 # Link Telegram
